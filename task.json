@@ -1,12 +1,5 @@
 [
   {
-    "id": 1,
-    "description": "Go to Gym",
-    "status": "todo",
-    "createdAt": "2026-05-01T20:37:21.867Z",
-    "updatedat": "2026-05-01T20:37:21.867Z"
-  },
-  {
     "id": 2,
     "description": "Buy groceries",
     "status": "todo",
@@ -15,7 +8,7 @@
   },
   {
     "id": 3,
-    "description": "Play FootBall",
+    "description": "Go to Music Class",
     "status": "todo",
     "createdAt": "2026-05-01T20:37:35.898Z",
     "updatedat": "2026-05-01T20:37:35.898Z"
